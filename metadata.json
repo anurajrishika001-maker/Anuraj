@@ -1,0 +1,6 @@
+{
+  "name": "iOS Emoji 13",
+  "description": "iOS Emoji keyboard, text story styler, aesthetic combo maker, and Android 13 emoji switcher guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
